@@ -5,8 +5,8 @@ import (
 	"time"
 
 	pp "github.com/mastercactapus/proxyprotocol"
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/icasei/caddy"
+	"github.com/icasei/caddy/caddyhttp/httpserver"
 )
 
 type ppRules []pp.Rule

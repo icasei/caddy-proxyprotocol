@@ -4,7 +4,7 @@ import (
 	"os"
 
 	pp "github.com/mastercactapus/proxyprotocol"
-	"github.com/mholt/caddy"
+	"github.com/icasei/caddy"
 )
 
 // Listener adds PROXY protocol support to a caddy.Listener.
